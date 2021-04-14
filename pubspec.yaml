@@ -16,6 +16,7 @@ dependencies:
   fl_chart:
 
 dev_dependencies:
+  lint:
   flutter_test:
     sdk: flutter
 
@@ -23,4 +24,4 @@ flutter:
 
   uses-material-design: true
   assets:
-    - assets/images
+    - assets/images/
